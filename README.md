@@ -1,3 +1,2 @@
-# Codes to use percentage()
-## The function math.percentage() available in JavaScript in many programming languages
-Observation: If you use in C language, import the header file too.
+# Codes to use percent()
+Observation: If you use in C language, don't forget to use the "percentage.h"
