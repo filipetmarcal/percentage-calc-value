@@ -7,7 +7,7 @@ float percentage(float value){
 }
 
 /*
-This function convert decimal number to percentage.
+This function convert any decimal number to percentage.
 How to use: With any decimal value, use dec2percentage(value).
 */
 float dec2percentage(float value){
@@ -15,7 +15,7 @@ float dec2percentage(float value){
 }
 
 /*
-This function convert decimal number to percentage and print "{value}%".
+This function convert any decimal number to percentage and print "{value}%".
 How to use: With any decimal value, use dectopercentage(value).
 */
 void dectopercentage(float value){
