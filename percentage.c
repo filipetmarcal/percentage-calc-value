@@ -1,3 +1,5 @@
+#include "percentage.h"
+#include <stdio.h>
 /*
 This function use the percentage value and convert to decimal number.
 How to use: Multiply the value to percent. Example: 50 * percent(30)
