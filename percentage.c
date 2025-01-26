@@ -1,8 +1,8 @@
 /*
-This function reply the math.percentage(), function available in JavaScript.
-How to use: Multiply the value to percent. Example: 50 * percentage(30)
+This function use the percentage value and convert to decimal number.
+How to use: Multiply the value to percent. Example: 50 * percent(30)
 */
-float percentage(float value){
+float percent(float value){
   return value / 100;
 }
 
@@ -10,7 +10,7 @@ float percentage(float value){
 This function convert any decimal number to percentage.
 How to use: With any decimal value, use dec2percentage(value).
 */
-float dec2percentage(float value){
+float dec2percent(float value){
   return value * 100;
 }
 
@@ -18,6 +18,6 @@ float dec2percentage(float value){
 This function convert any decimal number to percentage and print "{value}%".
 How to use: With any decimal value, use dectopercentage(value).
 */
-void dectopercentage(float value){
+void dectopercent(float value){
   printf("%f %%",dec2percentage(value));
 }
