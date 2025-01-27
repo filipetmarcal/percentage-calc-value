@@ -1,6 +1,6 @@
 # Codes to use percent()
 ## For each programming language, have the correspodent type file.
-C* - .c
-C++* - .cpp
-Python - .py
-*If you will use in C/C++ language, don't forget to use the "percentage.h"
+### C* - .c
+### C++* - .cpp
+### Python - .py
+### *If you will use in C/C++ language, don't forget to use the "percentage.h"
