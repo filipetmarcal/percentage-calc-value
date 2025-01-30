@@ -21,5 +21,5 @@ This function convert any decimal number to percentage and print "{value}%".
 How to use: With any decimal value, use dectopercentage(value). Example: dectopercentage(0.75)
 */
 void dectopercent(float value){
-  printf("%f %%",dec2percentage(value));
+  printf("%f %%",dec2percent(value));
 }
