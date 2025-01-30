@@ -12,7 +12,6 @@ def dec2percent(value):
 #How to use: With any decimal value, use dectopercentage(value). Example: dectopercent(0.75)
 def dectopercent(value):
   print(f"{dec2percent(value)}%")
-}
 
 
 
