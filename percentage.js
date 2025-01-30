@@ -8,7 +8,7 @@ function percent(float value){
 
 /*
 This function convert any decimal number to percentage.
-How to use: With any decimal value, use dec2percentage(value).
+How to use: With any decimal value, use dec2percentage(value). Example: dectopercent(0.5)
 */
 function dectopercent(float value){
   return value * 100;
