@@ -11,7 +11,4 @@ def dec2percent(value):
 #This function convert any decimal number to percentage and print "{value}%".
 #How to use: With any decimal value, use dectopercentage(value). Example: dectopercent(0.75)
 def dectopercent(value):
-  print(f"{dec2percent(value)}%")
-
-
-
+  return str(value * 100) + '%'
