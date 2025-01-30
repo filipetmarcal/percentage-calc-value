@@ -10,7 +10,7 @@ float percent(float value){
 
 /*
 This function convert any decimal number to percentage.
-How to use: With any decimal value, use dec2percentage(value).
+How to use: With any decimal value, use dec2percentage(value). Example: dec2percentage(0.4)
 */
 float dec2percent(float value){
   return value * 100;
@@ -18,7 +18,7 @@ float dec2percent(float value){
 
 /*
 This function convert any decimal number to percentage and print "{value}%".
-How to use: With any decimal value, use dectopercentage(value).
+How to use: With any decimal value, use dectopercentage(value). Example: dectopercentage(0.75)
 */
 void dectopercent(float value){
   printf("%f %%",dec2percentage(value));
